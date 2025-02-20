@@ -6,7 +6,7 @@ It automatically hides the so called "clarify box" below some videos.
 ![YouTube's clarify box](youtube-clarify.png)
 
 1. Create an empty directory.
-2. Download the latest release from the releases page on the right sidebar at [github.com/torstenwerner/youtube-unwoke](https://github.com/torstenwerner/youtube-unwoke) into this directory.
+2. Download the latest release from the [release page](https://github.com/torstenwerner/youtube-unwoke/releases) into this directory.
 3. Optional step: change the extension of the file from crx to zip so that the final name is youtube-unwoke.zip.
 4. Unpack the file.
 5. Navigate to [extensions settings](chrome://extensions/)
